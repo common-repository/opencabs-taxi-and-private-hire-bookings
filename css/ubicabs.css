@@ -1,0 +1,29 @@
+/*.clearfix::after {*/
+    /*content: "";*/
+    /*clear: both;*/
+    /*display: table;*/
+/*}*/
+
+.m-t-xs {
+    margin-top: 5px;
+}
+
+.logout-button input.button-primary {
+    background: #ffffff;
+    border-color: #da0076;
+    color: #da0076;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.logout-button input.button-primary:hover {
+    background: #da0076;
+    border-color: #da0076;
+    color: #ffffff;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.opencabs-settings .submit {
+    text-align: end;
+}
